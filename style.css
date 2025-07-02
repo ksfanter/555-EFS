@@ -1,7 +1,7 @@
 h1{
         text-align: center;
 }
-navbar.ul{
+.navbar ul{
     list-style-type: none;
     background-color: gray ;
     overflow: hidden;
