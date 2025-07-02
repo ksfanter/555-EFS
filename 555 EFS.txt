@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style> h1 {color: green;background-color: black;}</style>
+	<h1> 555 EFS </h1>
+<style> h2 {color: black;background-color: green;}</style>
+	<h2> Once Green...</h2>
+<style> p1 {color:green; background-color:black;}</style>
+	<p1>...Always Green.</p1>
+<style> p2 {color: black;background-color: green;}</style>
+	<p2> and kill migs!</p2>
+<ul>
+<li>Lewd</li>
+<li>Nuke</li>
+<li>Diesel</li>
+</ul>
+
+	
+</body>
+
+<img src="https://d2cto119c3bgok.cloudfront.net/thumbs/photos/2406/8483193/1000w_q95.jpg" width="500" height="300">
+
+
+
