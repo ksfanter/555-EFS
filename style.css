@@ -1,7 +1,13 @@
 body{
-    background-color: rgb(251, 251, 251);
+    background-color: rgb(251, 251, 251);   
     font-family: Arial, sans-serif;
     margin: 0px;
+     background-image:url("https://media.defense.gov/2003/Feb/10/2002243870/1200/1200/0/010205-F-1631A-001.JPG");>
+background-size: fill: cover; center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed
+    color: black;
+    font-size: 16px; 
 }
 main{
     margin-left: 20px;
@@ -13,7 +19,7 @@ h1{
 p{
     font-size: 18px;
     line-height: 1.6;
-    color: #333;
+    color: #000000;
 }
 .navbar ul{
     list-style-type: none;
