@@ -22,8 +22,15 @@ h1{
     font-size: 36px;
     color: #0a0a0a;
     font-family: Arial, sans-serif;
+    margin-bottom: 10px;  
+}
+h2{
+    text-align: left;
+    font-size: 24px;
+    color: #0a0a0a;
+    font-family: Arial, sans-serif;
     margin-bottom: 10px;
-    
+    text-indent: 15px;
 }
 p{
     font-size: 18px;
