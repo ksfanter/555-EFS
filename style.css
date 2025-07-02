@@ -5,56 +5,65 @@ body{
      background-image:url("https://media.defense.gov/2003/Feb/10/2002243870/1200/1200/0/010205-F-1631A-001.JPG");>
     background-repeat: no-repeat;
     background-position: center;
-    background-color: #000000;
     background-size: cover;
     background-attachment: fixed;
     font-size: 16px; 
+    
 }
 main{
     margin-left: 20px;
     margin-right: 20px;
+    padding-top: 10px;
+     font-family: Arial, sans-serif;
+     background-color: rgba(238, 233, 233, 0.641);
 }
 h1{
         text-align: center;
+    font-size: 36px;
+    color: #0a0a0a;
+    font-family: Arial, sans-serif;
+    margin-bottom: 10px;
+    
 }
 p{
     font-size: 18px;
     line-height: 1.6;
     color: #000000;
+    font-family: Arial, sans-serif;
+    text-align: justify;
+    text-indent: 05px;
+    background-color: rgba(238, 233, 233, 0.641);
+    padding: 10px;
+    border-radius: 5px;
+    
 }
 .navbar ul{
     list-style-type: none;
-
-    padding: 0px;
-position: left
-    top: 50px;
-    width: 100%
-    overflow: hidden;
+    margin: 0px;
+    padding: px;
+    position: center;
+    width: 100%;
+    overflow: auto
 }
 .navbar a{
     color: white;
     display: block;
     text-align: center;
-    padding: 15px;
+    padding: 7.5px;
     display: block;
     text-decoration: none;
-    background-color: aquamarine
     border: 1px solid #ccc;
-    margin: 5px 0;
-    border-radius: 5px;
+    margin: 5.55px;
+    border-radius: 10px;
     font-weight: bold;
     text-transform: uppercase   ;
     text-decoration: none;
-    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     color: #333
-    font-size: 18px;
     transition: background-color 0.3s ease;
 }
 .navbar a:hover{
     background-color: rgb(41, 41, 41);
 }
-
 .navbar li{
     float: left
 }
