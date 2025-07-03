@@ -3,16 +3,14 @@ h1 {
     font-weight: bold;
     color: #333;
 }
-navbar {
-    background-color: #333;
-    overflow: hidden;
-}  
+
 .navbar ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 .navbar li {
     float: left;
