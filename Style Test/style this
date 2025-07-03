@@ -1,0 +1,43 @@
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #333;
+}
+navbar {
+    background-color: #333;
+    overflow: hidden;
+}  
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+.navbar li {
+    float: left;
+    margin: 0 10px;
+}
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 14px 20px;
+    display: block;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: background-color 0.3s ease;
+}
+.navbar a:hover {
+    background-color: #555;
+}
+h2 {
+    font-size: 1.5em;
+    color: #666;
+    margin-top: 20px;
+}
+p {
+    font-size: 1em;
+    line-height: 1.5;
+    color: #444;
+    margin: 10px 0;
+}
