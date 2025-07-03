@@ -2,7 +2,7 @@ body{
     background-color: rgb(251, 251, 251);   
     font-family: Arial, sans-serif;
     margin: 0px;
-     background-image:url("https://media.defense.gov/2003/Feb/10/2002243870/1200/1200/0/010205-F-1631A-001.JPG");>
+     background-image:url("https://media.defense.gov/2003/Feb/10/2002243870/1200/1200/0/010205-F-1631A-001.JPG");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -65,7 +65,7 @@ p{
     font-weight: bold;
     text-transform: uppercase   ;
     text-decoration: none;
-    color: #333
+    color: #333;
     transition: background-color 0.3s ease;
 }
 .navbar a:hover{
@@ -94,4 +94,10 @@ p{
     background-position: left;
     background-size: cover;
     background-attachment: fixed;
+}
+aside{
+    background-color: rgba(238, 233, 233, 0.641);
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
 }
