@@ -1,0 +1,103 @@
+body{
+    background-color: rgb(251, 251, 251);   
+    font-family: Arial, sans-serif;
+    margin: 0px;
+     background-image:url("https://media.defense.gov/2003/Feb/10/2002243870/1200/1200/0/010205-F-1631A-001.JPG");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    font-size: 16px; 
+    
+}
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 10px;
+     font-family: Arial, sans-serif;
+     background-color: rgba(238, 233, 233, 0.641);
+}
+h1{
+        text-align: center;
+    font-size: 36px;
+    color: #0a0a0a;
+    font-family: Arial, sans-serif;
+    margin-bottom: 10px;  
+}
+h2{
+    text-align: left;
+    font-size: 24px;
+    color: #0a0a0a;
+    font-family: Arial, sans-serif;
+    margin-bottom: 10px;
+    text-indent: 15px;
+}
+p{
+    font-size: 18px;
+    line-height: 1.6;
+    color: #000000;
+    font-family: Arial, sans-serif;
+    text-align: justify;
+    text-indent: 05px;
+    background-color: rgba(238, 233, 233, 0.641);
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+.navbar ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: px;
+    position: center;
+    width: 100%;
+    overflow: auto
+}
+.navbar a{
+    color: white;
+    display: block;
+    text-align: center;
+    padding: 7.5px;
+    display: block;
+    text-decoration: none;
+    border: 1px solid #ccc;
+    margin: 5.55px;
+    border-radius: 10px;
+    font-weight: bold;
+    text-transform: uppercase   ;
+    text-decoration: none;
+    color: #333;
+    transition: background-color 0.3s ease;
+}
+.navbar a:hover{
+    background-color: rgb(41, 41, 41);
+}
+.navbar li{
+    float: left
+}
+.home-bg{
+    background-image: url("https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/1912/5986364/1000w_q95.jpg");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.badger-bg{
+    background-image: url("https://scontent.fruh4-2.fna.fbcdn.net/v/t39.30808-6/480661226_10162284434627378_6892410440722060543_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=pHCp-Mjb2ZAQ7kNvwG92Fn9&_nc_oc=Adk397ziSl3AK7RVjwg-2NgP2CFaBcej6nIZLCMYYgiUISSZT9QvI4UGVz8S6RdMWcI&_nc_zt=23&_nc_ht=scontent.fruh4-2.fna&_nc_gid=GLmYl6te0v2MHNcL0lcGEg&oh=00_AfOLxkXAXN0siSXj4psyJ-VY2YzyHfd5WlmzrT60zyErYw&oe=686B3827");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.Panton-bg{
+    background-image: url("https://media.defense.gov/2017/Jun/12/2001760730/1200/1200/0/080130-F-IF848-003.JPG");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+    background-attachment: fixed;
+}
+aside{
+    background-color: rgba(238, 233, 233, 0.641);
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
