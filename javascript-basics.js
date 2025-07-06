@@ -1,13 +1,12 @@
-class Person {
-    constructor(name, age) {
-        this.name = name;
-        this.age = age;
-    }
+const addfunction = () => {
+  console.log("Add function is called");
+  const first = document.getElementById("first");
+  const second = document.getElementById("second");
+  const result = document.getElementById("result");
+  result.value = parseFloat(first.value) + parseFloat(second.value);
+};
+// document.getElementById("add").onclick = addfunction;
+document.getElementById("first").onchange = addfunction;
+document.getElementById("second").onchange = addfunction;
 
-    greet() {
-        console.log(`Hello, my name is ${this.name} and I am ${this.age} years old.`);
-    }
-}
-
-const john = new Person("John", 30);
-john.greet();
+//<input id="add" type="button" value="Add Me Up!" />;
